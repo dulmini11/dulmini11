@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Dulmini Wanigasekara</h1>
-<h3 align="center">🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer/h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3DB2FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer" alt="Typing animation" />
@@ -11,10 +10,11 @@
 
 - 🎓 Undergraduate at [IIT Sri Lanka](https://www.iit.ac.lk/)
 - 💡 Passionate about building secure, scalable, and responsive websites
-- ⚛️ Skilled in **Java**,**React.js**, **Next.js**, **Python**, and **MySQL**
+- ⚛️ Skilled in **Java**, **React.js**, **Next.js**, **Python**, and **MySQL**
 - 🔁 Strong foundation in **Object-Oriented Programming (OOP)**
 - 🎨 Focused on user-friendly UI/UX with responsive design and component reusability
 - 🌱 Currently improving my skills in **full-stack web development**
+- 🏅 Active **athlete** with experience in **karate, rugby,  athletics, and football**
 
 ---
 
@@ -80,7 +80,12 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/dulmini-wanigasekara-756740333"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="Dulminihw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dulmini-wanigasekara-756740333/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Dulminihw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
