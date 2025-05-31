@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer/h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3DB2FF&center=true&vCenter=true&width=435&lines=React.js+%7C+Next.js+%7C+TypeScript+%7C+MySQL;Web+Developer+%7C+UI%2FUX+Design+Enthusiast;Building+Fast+%26+Responsive+Web+Apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3DB2FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer" alt="Typing animation" />
 </p>
 
 ---
@@ -70,8 +70,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulminiwanigasekara&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulminiwanigasekara&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulmini11&theme=tokyonight" />
 </p>
 
 ---
