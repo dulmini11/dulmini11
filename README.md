@@ -38,63 +38,18 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌤️ **Climatrix – Weather Forecast Web App**  
-> Next.js, TypeScript, Tailwind CSS, OpenWeatherMap API  
-- Real-time weather data with hourly and 7-day forecasts  
-- Detailed metrics including temperature, humidity, wind speed, and sunrise/sunset times  
-- Responsive design with mobile-first approach and clean UI  
-- Modern front-end development showcasing API integration skills
-
-### 🏠 **Real Estate Listings Platform**  
-> React.js, LocalStorage, CSS Media Queries, CSP Policies, Google Maps  
-- Dynamic property search and filtering by type, price, bedrooms, date, and location  
-- Favorites management system with local storage integration  
-- Interactive UI with React tabs for detailed property views and floor plans  
-- Enhanced security with CSP policies and HTML encoding for seamless user experience
-
-### 📚 **Story Sound Hub – Book Sharing & Property Platform**  
-> React.js, MySQL, Laravel, API Integration  
-- Full-stack platform combining book reviews, swaps, and property listings  
-- Developed comprehensive book addition and review system with user authentication  
-- Integrated MySQL databases with Laravel backend for efficient data management  
-- Responsive navigation with interactive filters and detailed property views
-
-### 🚌 **QuickRoute E01 – Expressway Bus Booking**  
-> React.js  
-- Frontend development for Southern Expressway bus booking platform  
-- Real-time bus search functionality with seamless ticket visibility  
-- User-friendly interface enabling smooth booking experience  
-- Fully responsive design optimized for cross-device compatibility
-
-### 🚀 **ZoomToSpace – Space Exploration Web App**  
-> React.js, React Tabs, CSS Animations  
-- Interactive platform exploring planets, astronauts, ISS, and solar system information  
-- Multiple tabs with smooth transitions between space-related content sections  
-- React components with state management and conditional rendering  
-- Enhanced visual appeal through animations and engaging design elements
-
-### 📊 **Scientific Research Data Management System**  
-> Python, Object-Oriented Programming, GUI Development  
-- Comprehensive data management platform for scientific research applications  
-- Object-oriented architecture with advanced serialization techniques  
-- Intuitive GUI interface with robust data validation protocols  
-- Scalable data handling solutions for research environments
-
-### 🎯 **Study Focus & Productivity System**  
-> HTML, CSS, JavaScript, Responsive Design  
-- Web-based productivity platform combining study tools with relaxation features  
-- Integrated Pomodoro timer functionality for enhanced focus management  
-- Interactive Tic Tac Toe game with 2-player and computer opponent modes  
-- Cross-device compatibility with optimized user experience for study efficiency
-
-### ☕ **Java Student Management System**  
-> Java, Object-Oriented Programming  
-- Comprehensive student data management application  
-- Efficient data handling and student record management  
-- Clean code architecture following Java best practices  
-- User-friendly interface for educational institution management
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌤️ [**Climatrix – Weather Forecast Web App**](#climatrix) | Real-time weather data with hourly and 7-day forecasts, detailed metrics including temperature, humidity, wind speed, and sunrise/sunset times | `Next.js`, `TypeScript`, `Tailwind CSS`, `OpenWeatherMap API` |
+| 🏠 [**Real Estate Listings Platform**](#real-estate) | Dynamic property search and filtering by type, price, bedrooms, date, and location with favorites management system | `React.js`, `LocalStorage`, `CSS Media Queries`, `Google Maps` |
+| 📚 [**Story Sound Hub – Book Sharing & Property Platform**](#story-sound-hub) | Full-stack platform combining book reviews, swaps, and property listings with user authentication | `React.js`, `MySQL`, `Laravel`, `API Integration` |
+| 🚌 [**QuickRoute E01 – Expressway Bus Booking**](#quickroute) | Frontend development for Southern Expressway bus booking platform with real-time bus search functionality | `React.js` |
+| 🚀 [**ZoomToSpace – Space Exploration Web App**](#zoomtospace) | Interactive platform exploring planets, astronauts, ISS, and solar system information with smooth transitions | `React.js`, `React Tabs`, `CSS Animations` |
+| 📊 [**Scientific Research Data Management System**](#research-data) | Comprehensive data management platform for scientific research applications with OOP architecture | `Python`, `OOP`, `GUI Development` |
+| 🎯 [**Study Focus & Productivity System**](#study-focus) | Web-based productivity platform combining study tools with Pomodoro timer and Tic Tac Toe game | `HTML`, `CSS`, `JavaScript`, `Responsive Design` |
+| ☕ [**Java Student Management System**](#java-student) | Comprehensive student data management application with clean code architecture | `Java`, `Object-Oriented Programming` |
 
 ---
 
