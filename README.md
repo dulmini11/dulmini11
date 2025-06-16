@@ -42,15 +42,15 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌤️ [**Climatrix – Weather Forecast Web App**](#climatrix) | Real-time weather data with hourly and 7-day forecasts, detailed metrics including temperature, humidity, wind speed, and sunrise/sunset times | `Next.js`, `TypeScript`, `Tailwind CSS`, `OpenWeatherMap API` |
-| 🏠 [**Real Estate Listings Platform**](#real-estate) | Dynamic property search and filtering by type, price, bedrooms, date, and location with favorites management system | `React.js`, `LocalStorage`, `CSS Media Queries`, `Google Maps` |
-| 📚 [**Story Sound Hub – Book Sharing & Property Platform**](#story-sound-hub) | Full-stack platform combining book reviews, swaps, and property listings with user authentication | `React.js`, `MySQL`, `Laravel`, `API Integration` |
-| 🚌 [**QuickRoute E01 – Expressway Bus Booking**](#quickroute) | Frontend development for Southern Expressway bus booking platform with real-time bus search functionality | `React.js` |
-| 🚀 [**ZoomToSpace – Space Exploration Web App**](#zoomtospace) | Interactive platform exploring planets, astronauts, ISS, and solar system information with smooth transitions | `React.js`, `React Tabs`, `CSS Animations` |
+| 🌤️ [**Climatrix – Weather Forecast Web App**](https://github.com/dulmini11/climatrix) | Real-time weather data with hourly and 7-day forecasts, detailed metrics including temperature, humidity, wind speed, and sunrise/sunset times | `Next.js`, `TypeScript`, `Tailwind CSS`, `OpenWeatherMap API` |
+| 🏠 [**Real Estate Listings Platform**](https://github.com/dulmini11/Real-estate-website) | Dynamic property search and filtering by type, price, bedrooms, date, and location with favorites management system | `React.js`, `LocalStorage`, `CSS Media Queries`, `Google Maps` |
+| 📚 [**Story Sound Hub – Book Sharing & Property Platform**](https://github.com/Visnumaynan/Storysoundhub) | Full-stack platform combining book reviews, swaps, and property listings with user authentication | `React.js`, `MySQL`, `Laravel`, `API Integration` |
+| 🚌 [**QuickRoute E01 – Expressway Bus Booking**](https://github.com/dulmini11/BusTicketBooking) | Frontend development for Southern Expressway bus booking platform with real-time bus search functionality | `React.js` |
+| 🚀 [**ZoomToSpace – Space Exploration Web App**](https://github.com/dulmini11/ZoomToSpace) | Interactive platform exploring planets, astronauts, ISS, and solar system information with smooth transitions | `React.js`, `React Tabs`, `CSS Animations` |
 | 📊 [**Scientific Research Data Management System**](#research-data) | Comprehensive data management platform for scientific research applications with OOP architecture | `Python`, `OOP`, `GUI Development` |
 | 🎯 [**Study Focus & Productivity System**](#study-focus) | Web-based productivity platform combining study tools with Pomodoro timer and Tic Tac Toe game | `HTML`, `CSS`, `JavaScript`, `Responsive Design` |
 | ☕ [**Java Student Management System**](#java-student) | Comprehensive student data management application with clean code architecture | `Java`, `Object-Oriented Programming` |
-
+| 💼 [**Portfolio Website**](https://github.com/dulmini11/DulminiPortfolio) | My personal web developer portfolio showcasing projects and skills | `HTML`, `CSS`, `JavaScript` |
 ---
 
 ## 📊 GitHub Stats
