@@ -22,7 +22,6 @@
 ---
 
 ## 🛠️ **Tech Exposure**
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs" alt="Tech Stack Line 1" />
   <br/>
@@ -30,10 +29,10 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tech Stack Line 3" />
   <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="IDLE"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" style="margin: 0 25px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" style="margin: 0 25px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" style="margin: 0 25px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="IDLE" style="margin: 0 25px;"/>
 </div>
 
 ---
@@ -47,86 +46,99 @@
 </p>
 
 ---
-
 🚀 Featured Projects
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center">
+🎯 My Project Showcase
 <table>
-<thead>
-<tr style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
-<th align="center" style="padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #ff6b6b, #ee5a24); color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🎯</th>
-<th align="center" style="padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #4834d4, #686de0); color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><strong>Project</strong></th>
-<th align="center" style="padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #00d2d3, #54a0ff); color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><strong>Description</strong></th>
-<th align="center" style="padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #5f27cd, #00d2d3); color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><strong>Tech Stack</strong></th>
-<th align="center" style="padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #ff9ff3, #f368e0); color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><strong>Link</strong></th>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br>
+<strong><a href="https://github.com/Visnumaynan/Storysoundhub">📚 Story Sound Hub</a></strong>
+<br>
+<em>Book Sharing & Property Platform</em>
+<br>
+<sub>React.js • MySQL • Laravel • APIs</sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br>
+<strong><a href="https://github.com/dulmini11/ZoomToSpace">🚀 ZoomToSpace</a></strong>
+<br>
+<em>Space Exploration Web App</em>
+<br>
+<sub>React.js • CSS Animations • React Tabs</sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<br>
+<strong><a href="#research-data">📊 Research Data System</a></strong>
+<br>
+<em>Scientific Data Management</em>
+<br>
+<sub>Python • OOP • GUI Development</sub>
+</td>
 </tr>
-</thead>
-<tbody>
-<tr style="background: rgba(255,255,255,0.05); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">📚</td>
-<td style="padding: 12px; font-weight: bold; color: #ff6b6b;"><a href="https://github.com/Visnumaynan/Storysoundhub" style="text-decoration: none; color: #ff6b6b;"><strong>Story Sound Hub – Book Sharing & Property Platform</strong></a></td>
-<td style="padding: 12px; color: #333;">Full-stack platform combining book reviews, swaps, and property listings with user authentication</td>
-<td style="padding: 12px; color: #4834d4;">React.js, MySQL, Laravel, API Integration</td>
-<td align="center" style="padding: 12px;"><a href="https://github.com/Visnumaynan/Storysoundhub" style="text-decoration: none; font-size: 20px;">🔗</a></td>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
+<br>
+<strong><a href="https://github.com/dulmini11/climatrix">🌤️ Climatrix</a></strong>
+<br>
+<em>Weather Forecast App</em>
+<br>
+<sub>Next.js • TypeScript • Tailwind CSS</sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+<br>
+<strong><a href="#java-student">☕ Student Management</a></strong>
+<br>
+<em>Java Management System</em>
+<br>
+<sub>Java • OOP • Clean Architecture</sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+<br>
+<strong><a href="#study-focus">🎯 Study Focus System</a></strong>
+<br>
+<em>Productivity Platform</em>
+<br>
+<sub>HTML • CSS • JavaScript</sub>
+</td>
 </tr>
-<tr style="background: rgba(255,255,255,0.08); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">🚀</td>
-<td style="padding: 12px; font-weight: bold; color: #ee5a24;"><a href="https://github.com/dulmini11/ZoomToSpace" style="text-decoration: none; color: #ee5a24;"><strong>ZoomToSpace – Space Exploration Web App</strong></a></td>
-<td style="padding: 12px; color: #333;">Interactive platform exploring planets, astronauts, ISS, and solar system information with smooth transitions</td>
-<td style="padding: 12px; color: #4834d4;">React.js, React Tabs, CSS Animations</td>
-<td align="center" style="padding: 12px;"><a href="https://github.com/dulmini11/ZoomToSpace" style="text-decoration: none; font-size: 20px;">🔗</a></td>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br>
+<strong><a href="https://github.com/dulmini11/Real-estate-website">🏠 Real Estate Platform</a></strong>
+<br>
+<em>Property Listings & Search</em>
+<br>
+<sub>React.js • Google Maps • LocalStorage</sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br>
+<strong><a href="https://github.com/dulmini11/DulminiPortfolio">💼 Portfolio Website</a></strong>
+<br>
+<em>Personal Developer Portfolio</em>
+<br>
+<sub>React.js • CSS • JavaScript</sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br>
+<strong><a href="https://github.com/dulmini11/BusTicketBooking">🚌 QuickRoute E01</a></strong>
+<br>
+<em>Bus Booking Platform</em>
+<br>
+<sub>React.js • Real-time Search</sub>
+</td>
 </tr>
-<tr style="background: rgba(255,255,255,0.05); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">📊</td>
-<td style="padding: 12px; font-weight: bold; color: #686de0;"><a href="#research-data" style="text-decoration: none; color: #686de0;"><strong>Scientific Research Data Management System</strong></a></td>
-<td style="padding: 12px; color: #333;">Comprehensive data management platform for scientific research applications with OOP architecture</td>
-<td style="padding: 12px; color: #4834d4;">Python, OOP, GUI Development</td>
-<td align="center" style="padding: 12px;"><a href="#research-data" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-<tr style="background: rgba(255,255,255,0.08); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">🌤️</td>
-<td style="padding: 12px; font-weight: bold; color: #54a0ff;"><a href="https://github.com/dulmini11/climatrix" style="text-decoration: none; color: #54a0ff;"><strong>Climatrix – Weather Forecast Web App</strong></a></td>
-<td style="padding: 12px; color: #333;">Real-time weather data with hourly and 7-day forecasts, detailed metrics including temperature, humidity, wind speed, and sunrise/sunset times</td>
-<td style="padding: 12px; color: #4834d4;">Next.js, TypeScript, Tailwind CSS, OpenWeatherMap API</td>
-<td align="center" style="padding: 12px;"><a href="https://github.com/dulmini11/climatrix" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-<tr style="background: rgba(255,255,255,0.05); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">☕</td>
-<td style="padding: 12px; font-weight: bold; color: #5f27cd;"><a href="#java-student" style="text-decoration: none; color: #5f27cd;"><strong>Java Student Management System</strong></a></td>
-<td style="padding: 12px; color: #333;">Comprehensive student data management application with clean code architecture</td>
-<td style="padding: 12px; color: #4834d4;">Java, Object-Oriented Programming</td>
-<td align="center" style="padding: 12px;"><a href="#java-student" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-<tr style="background: rgba(255,255,255,0.08); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">🎯</td>
-<td style="padding: 12px; font-weight: bold; color: #00d2d3;"><a href="#study-focus" style="text-decoration: none; color: #00d2d3;"><strong>Study Focus & Productivity System</strong></a></td>
-<td style="padding: 12px; color: #333;">Web-based productivity platform combining study tools with Pomodoro timer and Tic Tac Toe game</td>
-<td style="padding: 12px; color: #4834d4;">HTML, CSS, JavaScript, Responsive Design</td>
-<td align="center" style="padding: 12px;"><a href="#study-focus" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-<tr style="background: rgba(255,255,255,0.05); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">🏠</td>
-<td style="padding: 12px; font-weight: bold; color: #ff9ff3;"><a href="https://github.com/dulmini11/Real-estate-website" style="text-decoration: none; color: #ff9ff3;"><strong>Real Estate Listings Platform</strong></a></td>
-<td style="padding: 12px; color: #333;">Dynamic property search and filtering by type, price, bedrooms, date, and location with favorites management system</td>
-<td style="padding: 12px; color: #4834d4;">React.js, LocalStorage, CSS Media Queries, Google Maps</td>
-<td align="center" style="padding: 12px;"><a href="https://github.com/dulmini11/Real-estate-website" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-<tr style="background: rgba(255,255,255,0.08); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">💼</td>
-<td style="padding: 12px; font-weight: bold; color: #f368e0;"><a href="https://github.com/dulmini11/DulminiPortfolio" style="text-decoration: none; color: #f368e0;"><strong>Portfolio Website</strong></a></td>
-<td style="padding: 12px; color: #333;">My personal web developer portfolio showcasing projects and skills</td>
-<td style="padding: 12px; color: #4834d4;">React.js, CSS, JavaScript</td>
-<td align="center" style="padding: 12px;"><a href="https://github.com/dulmini11/DulminiPortfolio" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-<tr style="background: rgba(255,255,255,0.05); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.1);">
-<td align="center" style="padding: 12px; font-size: 24px;">🚌</td>
-<td style="padding: 12px; font-weight: bold; color: #ff6b6b;"><a href="https://github.com/dulmini11/BusTicketBooking" style="text-decoration: none; color: #ff6b6b;"><strong>QuickRoute E01 – Expressway Bus Booking</strong></a></td>
-<td style="padding: 12px; color: #333;">Frontend development for Southern Expressway bus booking platform with real-time bus search functionality</td>
-<td style="padding: 12px; color: #4834d4;">React.js</td>
-<td align="center" style="padding: 12px;"><a href="https://github.com/dulmini11/BusTicketBooking" style="text-decoration: none; font-size: 20px;">🔗</a></td>
-</tr>
-</tbody>
 </table>
-</div>
+
 
 ---
 
