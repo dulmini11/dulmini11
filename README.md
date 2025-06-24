@@ -1,65 +1,8 @@
 # <div align="center">Hi there! I'm **Dulmini Wanigasekara**</div>
 
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 40px 20px; border-radius: 20px; margin: 30px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
-  
-  <!-- Animated background particles -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
-    <div style="position: absolute; top: 20%; left: 10%; width: 4px; height: 4px; background: rgba(255,255,255,0.6); border-radius: 50%; animation: float 6s ease-in-out infinite;"></div>
-    <div style="position: absolute; top: 60%; left: 80%; width: 6px; height: 6px; background: rgba(255,255,255,0.4); border-radius: 50%; animation: float 8s ease-in-out infinite reverse;"></div>
-    <div style="position: absolute; top: 30%; right: 15%; width: 3px; height: 3px; background: rgba(255,255,255,0.7); border-radius: 50%; animation: float 7s ease-in-out infinite;"></div>
-    <div style="position: absolute; bottom: 30%; left: 20%; width: 5px; height: 5px; background: rgba(255,255,255,0.5); border-radius: 50%; animation: float 9s ease-in-out infinite reverse;"></div>
-  </div>
-
-  <!-- Glowing border effect -->
-  <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57, #ff9ff3); border-radius: 22px; z-index: -1; animation: borderGlow 4s linear infinite;"></div>
-  
-  <!-- Main content with enhanced styling -->
-  <div style="position: relative; z-index: 2;">
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing animation" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.5));" />
-    
-    <div style="margin-top: 25px;">
-      <div style="display: inline-block; padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 25px; backdrop-filter: blur(10px); margin: 0 8px; border: 1px solid rgba(255,255,255,0.2);">
-        <span style="color: white; font-weight: bold; font-size: 14px;">🎯 Passionate Developer</span>
-      </div>
-      <div style="display: inline-block; padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 25px; backdrop-filter: blur(10px); margin: 0 8px; border: 1px solid rgba(255,255,255,0.2);">
-        <span style="color: white; font-weight: bold; font-size: 14px;">🚀 Innovation Driven</span>
-      </div>
-      <div style="display: inline-block; padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 25px; backdrop-filter: blur(10px); margin: 0 8px; border: 1px solid rgba(255,255,255,0.2);">
-        <span style="color: white; font-weight: bold; font-size: 14px;">💡 Problem Solver</span>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing animation" />
 </div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.7; }
-  50% { transform: translateY(-20px) rotate(180deg); opacity: 1; }
-}
-
-@keyframes borderGlow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
-
-/* Responsive design */
-@media (max-width: 768px) {
-  div[align="center"] h2 {
-    font-size: 1.8em !important;
-  }
-  
-  div[align="center"] > div > div {
-    display: block !important;
-    margin: 5px 0 !important;
-  }
-}
-</style>
 
 ---
 
