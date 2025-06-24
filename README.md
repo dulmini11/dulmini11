@@ -1,12 +1,7 @@
-# <div align="center">👋 Hi there! I'm **Dulmini Wanigasekara**</div>
+# <div align="center">Hi there! I'm **Dulmini Wanigasekara**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing animation" />
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" alt="Coding Animation">
 </div>
 
 ---
@@ -140,26 +135,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dulmini-wanigasekara-756740333/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Dulminihw@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+<a href="https://dulmini.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
-
-## 🌐 **Let's Connect!**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dulmini-wanigasekara-756740333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_15px_rgba(0,119,181,0.3)" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Dulminihw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px_4px_15px_rgba(209,72,54,0.3)" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/dulmini11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&shadow=0px_4px_15px_rgba(24,23,23,0.3)" alt="GitHub"/>
-  </a>
-</div>
 
 ---
 
