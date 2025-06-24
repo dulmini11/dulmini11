@@ -1,11 +1,12 @@
 # <div align="center">👋 Hi there! I'm **Dulmini Wanigasekara**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing animation" />
 </div>
 
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" alt="Coding Animation">
 </div>
 
 ---
@@ -28,25 +29,27 @@
 ## 🛠️ **Tech Exposure**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,html,css,tailwind,nodejs,mongodb,mysql,git,github,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs" alt="Tech Stack Line 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,mongodb,mysql" alt="Tech Stack Line 2" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tech Stack Line 3" />
   <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="NetBeans"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="IDLE"/>
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Stats
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats"/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dulmini11&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulmini11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulmini11&theme=tokyonight" />
+</p>
 
 ---
 
@@ -132,29 +135,17 @@
 
 ---
 
-## 🏆 **Achievements & Skills**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulmini11&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</div>
+## 🌐 Connect with Me
 
-### 🎯 **Core Competencies**
-- **Full-Stack Development** - Building end-to-end web applications
-- **Responsive Design** - Mobile-first, cross-platform compatibility
-- **Database Management** - Efficient data modeling and optimization
-- **API Integration** - RESTful services and third-party integrations
-- **Version Control** - Git workflows and collaborative development
-- **Problem Solving** - Algorithmic thinking and debugging expertise
-
----
-
-## 📈 **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulmini11&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/dulmini-wanigasekara-756740333/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Dulminihw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🌐 **Let's Connect!**
 
@@ -173,9 +164,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=51&descAlign=62" alt="Footer"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulmini11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=65&fontColor=FFFFFF&desc=Let's%20build%20something%20amazing%20together!&descAlignY=50&descAlign=50&descSize=12" alt="Footer"/>
 </div>
