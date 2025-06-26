@@ -22,37 +22,57 @@
 ---
 
 ## 🛠️ **Tech Exposure**
-<div align="center">
-  <div style="margin-bottom: 40px;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin: 0 40px;" />
-  </div>
-  <div style="margin-bottom: 40px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin: 0 40px;" />
-  </div>
-  <div style="margin-bottom: 40px;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="margin: 0 40px;" />
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="margin: 0 40px;" />
-  </div>
-</div>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" style="margin: 0 25px 30px 25px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" style="margin: 0 25px 30px 25px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" style="margin: 0 25px 30px 25px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="IDLE" style="margin: 0 25px 30px 25px;" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="IDLE" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Figma Icon from a common source -->
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="40" />
+</p>
+
 
 
 ---
@@ -152,4 +172,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=65&fontColor=FFFFFF&desc=Let's%20build%20something%20amazing%20together!&descAlignY=50&descAlign=50&descSize=12" alt="Footer"/>
 </div>
 --
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourgithubusername.yourgithubusername)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dulminiwanigasekara&label=Profile%20views&color=0e75b6&style=flat-square" alt="dulminiwanigasekara" />
+</p>
+
