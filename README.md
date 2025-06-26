@@ -79,9 +79,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulmini11&theme=tokyonight" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=dulmini11&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulmini11&theme=tokyo-night&hide_border=true&area=true" alt="Monthly GitHub Activity" />
 </p>
 
 ---
