@@ -69,8 +69,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="IDLE" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Figma Icon from a common source -->
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="40" />
 </p>
 
 
@@ -171,7 +170,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=65&fontColor=FFFFFF&desc=Let's%20build%20something%20amazing%20together!&descAlignY=50&descAlign=50&descSize=12" alt="Footer"/>
 </div>
---
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dulminiwanigasekara&label=Profile%20views&color=0e75b6&style=flat-square" alt="dulminiwanigasekara" />
 </p>
