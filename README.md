@@ -6,7 +6,7 @@
 
 ---
 
-## **About Me**
+## ** 🎓 About Me**
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif">
 
@@ -24,34 +24,22 @@
 ## 🛠️ **Tech Exposure**
 <div align="center">
   <div style="margin-bottom: 40px;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin: 0 20px;" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin: 0 50px;" />
   </div>
+
   <div style="margin-bottom: 40px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin: 0 20px;" />
-  </div>
-  <div style="margin-bottom: 40px;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="margin: 0 20px;" />
-  </div>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" style="margin: 0 25px 30px 25px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" style="margin: 0 25px 30px 25px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" style="margin: 0 25px 30px 25px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="IDLE" style="margin: 0 25px 30px 25px;" />
-  </div>
-</div>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin:
+
 
 
 ---
@@ -150,3 +138,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=65&fontColor=FFFFFF&desc=Let's%20build%20something%20amazing%20together!&descAlignY=50&descAlign=50&descSize=12" alt="Footer"/>
 </div>
+
+<!-- Profile View Section -->
+<section id="profile-view" style="padding: 40px; text-align: center;">
+  <h2>About Me</h2>
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;"/>
+  <p style="max-width: 600px; margin: 20px auto; font-size: 1.1rem;">
+    Hi, I’m Dulmini Wanigasekara, a passionate software developer and athlete. I love building innovative software solutions while maintaining a strong mind and body.
+  </p>
+</section>
