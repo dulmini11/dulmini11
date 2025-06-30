@@ -86,9 +86,6 @@
   <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulmini11&theme=tokyo-night&hide_border=true&area=true" alt="Monthly GitHub Activity" />
 </p>
 
 ---
