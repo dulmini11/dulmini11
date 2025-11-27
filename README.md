@@ -22,6 +22,7 @@
 ---
 
 ## 🛠️ **Tech Exposure**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,9 +35,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
@@ -44,13 +43,13 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
@@ -58,21 +57,15 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="IDLE" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="40" />
 </p>
-
-
 
 ---
 
