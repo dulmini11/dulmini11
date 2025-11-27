@@ -90,64 +90,115 @@
 
 ---
 
-## 🚀 **projects**
-
-<div align="center" style="padding: 20px; margin: 20px 0;">
+🚀 Projects
+<div align="center">
 <table>
-<thead>
 <tr>
-<th align="center" style="padding: 15px; color: #1a1a2e; font-weight: bold;"><strong>Project</strong></th>
-<th align="center" style="padding: 15px; color: #1a1a2e; font-weight: bold;"><strong>Description</strong></th>
-<th align="center" style="padding: 15px; color: #1a1a2e; font-weight: bold;"><strong>Tech Stack</strong></th>
+<td width="33%" align="center">
+<h3>📚 Story Sound Hub</h3>
+Book Sharing & Property Platform
+<br><br>
+<a href="https://github.com/Visnumaynan/Storysoundhub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://your-deploy-link.com">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<h3>🚀 ZoomToSpace</h3>
+Space Exploration Web App
+<br><br>
+<a href="https://github.com/dulmini11/ZoomToSpace">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://your-deploy-link.com">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<h3>📊 Research System</h3>
+Scientific Data Management
+<br><br>
+<a href="#research-data">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
 </tr>
-</thead>
-<tbody>
+</table>
+<table>
 <tr>
-<td style="padding: 12px; font-weight: bold; color: #ff6b6b;"><a href="https://github.com/Visnumaynan/Storysoundhub" style="text-decoration: none; color: #ff6b6b;"><strong>📚 Story Sound Hub – Book Sharing & Property Platform</strong></a></td>
-<td style="padding: 12px; color: #333;">Full-stack platform combining book reviews, swaps, and property listings with user authentication</td>
-<td style="padding: 12px; color: #1a1a2e;">React.js, MySQL, Laravel, API Integration</td>
+<td width="33%" align="center">
+<h3>🌤️ Climatrix</h3>
+Weather Forecast Web App
+<br><br>
+<a href="https://github.com/dulmini11/climatrix">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://your-deploy-link.com">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<h3>☕ Java Student System</h3>
+Student Management Application
+<br><br>
+<a href="#java-student">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+<td width="33%" align="center">
+<h3>🎯 Study Focus</h3>
+Productivity System
+<br><br>
+<a href="#study-focus">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
 </tr>
+</table>
+<table>
 <tr>
-<td style="padding: 12px; font-weight: bold; color: #ee5a24;"><a href="https://github.com/dulmini11/ZoomToSpace" style="text-decoration: none; color: #ee5a24;"><strong>🚀 ZoomToSpace – Space Exploration Web App</strong></a></td>
-<td style="padding: 12px; color: #333;">Interactive platform exploring planets, astronauts, ISS, and solar system information with smooth transitions</td>
-<td style="padding: 12px; color: #1a1a2e;">React.js, React Tabs, CSS Animations</td>
+<td width="33%" align="center">
+<h3>🏠 Real Estate Platform</h3>
+Property Listings & Search
+<br><br>
+<a href="https://github.com/dulmini11/Real-estate-website">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://your-deploy-link.com">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<h3>💼 Portfolio Website</h3>
+Personal Developer Portfolio
+<br><br>
+<a href="https://github.com/dulmini11/DulminiPortfolio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://your-deploy-link.com">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<h3>🚌 QuickRoute E01</h3>
+Expressway Bus Booking
+<br><br>
+<a href="https://github.com/dulmini11/BusTicketBooking">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://your-deploy-link.com">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
 </tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #686de0;"><a href="#research-data" style="text-decoration: none; color: #686de0;"><strong>📊 Scientific Research Data Management System</strong></a></td>
-<td style="padding: 12px; color: #333;">Comprehensive data management platform for scientific research applications with OOP architecture</td>
-<td style="padding: 12px; color: #1a1a2e;">Python, OOP, GUI Development</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #54a0ff;"><a href="https://github.com/dulmini11/climatrix" style="text-decoration: none; color: #54a0ff;"><strong>🌤️ Climatrix – Weather Forecast Web App</strong></a></td>
-<td style="padding: 12px; color: #333;">Real-time weather data with hourly and 7-day forecasts, detailed metrics including temperature, humidity, wind speed, and sunrise/sunset times</td>
-<td style="padding: 12px; color: #1a1a2e;">Next.js, TypeScript, Tailwind CSS, OpenWeatherMap API</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #5f27cd;"><a href="#java-student" style="text-decoration: none; color: #5f27cd;"><strong>☕ Java Student Management System</strong></a></td>
-<td style="padding: 12px; color: #333;">Comprehensive student data management application with clean code architecture</td>
-<td style="padding: 12px; color: #1a1a2e;">Java, Object-Oriented Programming</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #00d2d3;"><a href="#study-focus" style="text-decoration: none; color: #00d2d3;"><strong>🎯 Study Focus & Productivity System</strong></a></td>
-<td style="padding: 12px; color: #333;">Web-based productivity platform combining study tools with Pomodoro timer and Tic Tac Toe game</td>
-<td style="padding: 12px; color: #1a1a2e;">HTML, CSS, JavaScript, Responsive Design</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #ff9ff3;"><a href="https://github.com/dulmini11/Real-estate-website" style="text-decoration: none; color: #ff9ff3;"><strong>🏠 Real Estate Listings Platform</strong></a></td>
-<td style="padding: 12px; color: #333;">Dynamic property search and filtering by type, price, bedrooms, date, and location with favorites management system</td>
-<td style="padding: 12px; color: #1a1a2e;">React.js, LocalStorage, CSS Media Queries, Google Maps</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #f368e0;"><a href="https://github.com/dulmini11/DulminiPortfolio" style="text-decoration: none; color: #f368e0;"><strong>💼 Portfolio Website</strong></a></td>
-<td style="padding: 12px; color: #333;">My personal web developer portfolio showcasing projects and skills</td>
-<td style="padding: 12px; color: #1a1a2e;">React.js, CSS, JavaScript</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-weight: bold; color: #ff6b6b;"><a href="https://github.com/dulmini11/BusTicketBooking" style="text-decoration: none; color: #ff6b6b;"><strong>🚌 QuickRoute E01 – Expressway Bus Booking</strong></a></td>
-<td style="padding: 12px; color: #333;">Frontend development for Southern Expressway bus booking platform with real-time bus search functionality</td>
-<td style="padding: 12px; color: #1a1a2e;">React.js</td>
-</tr>
-</tbody>
 </table>
 </div>
 
