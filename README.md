@@ -90,23 +90,45 @@
 
 ---
 
-🚀 Projects
+# 🚀 Projects
+
 <div align="center">
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <h3>📚 Story Sound Hub</h3>
 Book Sharing & Property Platform
 <br><br>
 <a href="https://github.com/Visnumaynan/Storysoundhub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+</td>
+<td width="25%" align="center">
+<h3>🎓 WorkshopsX</h3>
+Workshop Website
+<br><br>
+<a href="https://github.com/dulmini11/workshop-app">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <br>
-<a href="https://your-deploy-link.com">
+<a href="https://workshop-app-qzum.vercel.app">
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
+<h3>💰 CoinWise</h3>
+Finance Tracking Website
+<br><br>
+<a href="https://github.com/dulmini11/coinwise">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://coinwise-v7eg.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+</td>
+<td width="25%" align="center">
 <h3>🚀 ZoomToSpace</h3>
 Space Exploration Web App
 <br><br>
@@ -114,67 +136,36 @@ Space Exploration Web App
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <br>
-<a href="https://your-deploy-link.com">
+<a href="https://zoom-to-space.vercel.app">
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-</a>
-</td>
-<td width="33%" align="center">
-<h3>📊 Research System</h3>
-Scientific Data Management
-<br><br>
-<a href="#research-data">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </td>
 </tr>
 </table>
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <h3>🌤️ Climatrix</h3>
 Weather Forecast Web App
 <br><br>
 <a href="https://github.com/dulmini11/climatrix">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<br>
-<a href="https://your-deploy-link.com">
-<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-</a>
 </td>
-<td width="33%" align="center">
-<h3>☕ Java Student System</h3>
-Student Management Application
-<br><br>
-<a href="#java-student">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <h3>🎯 Study Focus</h3>
-Productivity System
+Tic Tac Toe Game
 <br><br>
-<a href="#study-focus">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🏠 Real Estate Platform</h3>
-Property Listings & Search
-<br><br>
-<a href="https://github.com/dulmini11/Real-estate-website">
+<a href="https://github.com/dulmini11/Tic-Tac-Toe">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <br>
-<a href="https://your-deploy-link.com">
+<a href="https://tictacteokd.netlify.app">
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <h3>💼 Portfolio Website</h3>
 Personal Developer Portfolio
 <br><br>
@@ -182,24 +173,64 @@ Personal Developer Portfolio
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <br>
-<a href="https://your-deploy-link.com">
+<a href="https://dulmini.netlify.app">
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
+<h3>🏠 Real Estate Platform</h3>
+Property Listings & Search
+<br><br>
+<a href="https://github.com/dulmini11/Real-estate-website">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/View_More_Projects-FF6B6B?style=for-the-badge&logo=chevron-down&logoColor=white" alt="View More"/>
+</summary>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center">
 <h3>🚌 QuickRoute E01</h3>
 Expressway Bus Booking
 <br><br>
 <a href="https://github.com/dulmini11/BusTicketBooking">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<br>
-<a href="https://your-deploy-link.com">
-<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</td>
+<td width="25%" align="center">
+<h3>📊 Research System</h3>
+Scientific Data Management
+<br><br>
+<a href="#research-data">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+</td>
+<td width="25%" align="center">
+<h3>☕ Java Student System</h3>
+Student Management Application
+<br><br>
+<a href="#java-student">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+<td width="25%" align="center">
+<!-- Empty slot for future project -->
 </td>
 </tr>
 </table>
+
+</details>
+
 </div>
 
 ---
