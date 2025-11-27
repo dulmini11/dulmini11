@@ -216,7 +216,7 @@ Expressway Bus Booking
   </a>
 
 <a href="https://dulmini.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge" />
 </a>
 </p>
 
