@@ -73,19 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=dulmini11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=2" />
-  <br/><br/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
