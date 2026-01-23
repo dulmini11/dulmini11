@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing animation" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dulminiwanigasekara&label=Profile%20views&color=0e75b6&style=flat-square" alt="dulminiwanigasekara" />
+</p>
+
 ---
 
 ## 🎓 **About Me**
@@ -83,9 +87,6 @@
 
 ---
 
----
-
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -106,10 +107,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=65&fontColor=FFFFFF&desc=Let's%20build%20something%20amazing%20together!&descAlignY=50&descAlign=50&descSize=12" alt="Footer"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulminiwanigasekara&label=Profile%20views&color=0e75b6&style=flat-square" alt="dulminiwanigasekara" />
-</p>
 
