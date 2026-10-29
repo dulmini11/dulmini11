@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Dulmini%20Wanigasekara&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%203D%20Web%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Dulmini Wanigasekara" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Dulmini%20Wanigasekara&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20and%203D%20Web%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Dulmini Wanigasekara" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+full-stack+web+applications;Crafting+interactive+3D+experiences+for+the+web;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Three.js" alt="Typing animation" />
 
@@ -14,11 +14,11 @@
 
 ## About Me
 
-I am a **Full-Stack and 3D Web Developer** currently working at **Liveroom**, and a Software Engineering undergraduate at the [Informatics Institute of Technology (IIT), Sri Lanka](https://www.iit.ac.lk/). I build secure, scalable web applications and immersive, interactive 3D experiences that run directly in the browser.
+I am a **Full-Stack and 3D Web Developer** currently working at **Liveroom**, and a final-year BSc (Hons) Computer Science undergraduate at [IIT Campus, Sri Lanka](https://www.iit.ac.lk/) (affiliated with the University of Westminster). I build secure, scalable web applications and immersive, interactive 3D experiences that run directly in the browser.
 
 - 💼 **Currently:** Working at Liveroom
-- 🎓 **Studying:** BSc (Hons) Software Engineering at IIT Sri Lanka
-- 🧩 **Foundations:** Object-Oriented Programming, data structures, software design principles
+- 🎓 **Studying:** Final-year BSc (Hons) Computer Science at IIT Campus, Sri Lanka (University of Westminster)
+- 🧠 **Areas of Knowledge:** Artificial Intelligence, Machine Learning, Cybersecurity, Algorithms and Data Structures, Object-Oriented Programming
 
 ---
 
@@ -86,24 +86,15 @@ I am a **Full-Stack and 3D Web Developer** currently working at **Liveroom**, an
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulmini11&show_icons=true&hide_border=true&count_private=true&title_color=2563EB&icon_color=2563EB" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulmini11&layout=compact&hide_border=true&title_color=2563EB" alt="Top languages" height="165" />
-</div>
-
----
-
 ## Beyond Code
 
-Outside of software development, I am an active athlete with experience in karate, rugby, athletics, and football — pursuits that have shaped my discipline, resilience, and ability to work effectively in a team.
+Outside of software development, I am an active athlete with experience in karate, rugby, athletics, and football. These pursuits have shaped my discipline, resilience, and ability to work effectively in a team.
 
 ---
 
 <div align="center">
 
-**Let's connect** — I'm always happy to discuss new ideas, projects, or opportunities.
+**Let's connect.** I'm always happy to discuss new ideas, projects, or opportunities.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" alt="" width="100%" />
 
